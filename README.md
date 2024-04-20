@@ -1,6 +1,7 @@
 # MAPLE
 The code for Paper "MAPLE: Mobile App Prediction Leveraging Large Language Model Embeddings."
-link to paper: https://arxiv.org/pdf/2309.08648.pdf
+
+To view the detailed model, please check the link to the paper : https://arxiv.org/pdf/2309.08648.pdf
 
 data: Contains the example input files
 
